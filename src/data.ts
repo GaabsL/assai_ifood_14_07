@@ -157,7 +157,6 @@ export const reportData: ReportData = {
           },
           posts: [
             {
-            {
               id: 'igf-new-1',
               date: '24/03/2026',
               grupo: 'Ifood',
